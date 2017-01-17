@@ -45,5 +45,6 @@ APP STRUCTURE
   * -- css
     * -- app.css <- Modify this !
   * -- img  <- Add image and folder image !
+  * -- font  <- Add fonts files !
   * -- components  <- Dont modify, all bower components
    
