@@ -1,5 +1,5 @@
 {
-  "name": "generator-html-css",
+  "name": "generator-boostrap-html-css",
   "authors": [
     "Yoann-M"
   ],
@@ -20,7 +20,8 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "bootstrap": "^3.3.7"
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
   }
 }
