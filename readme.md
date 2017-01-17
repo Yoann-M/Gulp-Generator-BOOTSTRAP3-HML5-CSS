@@ -1,11 +1,11 @@
-GULP GENERATOR HTML5 CSS DOCUMENTATION
-======================================
+GULP GENERATOR BOOTSTRAP 3 - HTML5 - CSS DOCUMENTATION
+======================================================
 
 Installation 
 --------------------------
 
 1. REPOSITORY
-   * $ cd Gulp-Generator-HML5-CSS
+   * $ cd repository
 2. BOWER
    * $ bower install
 3. NPM
@@ -31,9 +31,7 @@ Minify images, css and js files.. And all of other files in prod/
 Dependencies included in the project
 ------------------------------------
 
-* wow.js
-* animate.css
-* jQuery
+* bootstrap 3
 
 
 APP STRUCTURE
