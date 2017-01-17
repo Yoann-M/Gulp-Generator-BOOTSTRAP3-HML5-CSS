@@ -1,0 +1,26 @@
+{
+  "name": "generator-html-css",
+  "authors": [
+    "Yoann-M"
+  ],
+  "description": "Generator for BOOTSTRAP 3, HTML & CSS projects",
+  "main": "",
+  "keywords": [
+    "Generator",
+    "Bootstrap",
+    "HTML",
+    "CSS"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
